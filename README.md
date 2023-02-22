@@ -13,5 +13,7 @@ Meine Files zu den diversen Projekten:
   a. t6bodengesamt7.svg: Innenraum ab rund 30cm Hoehe im Innenraum
   b. t6bodeninnen.svg: Innenbereich Boden
   c. t6corpus.svg: Corpus Bus
+  
+ 5. STL Dateien fuer den Raspberry Monitor T6
 
 
